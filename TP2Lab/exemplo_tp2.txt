@@ -1,0 +1,22 @@
+TP2 LABORATORIO DE PROGRAMACAO
+
+Pagina 1
+Universidade Exemplo
+
+Este    e um    exemplo de texto com  erros de formatacao.
+
+Aqui existe uma linha partida
+que deveria ser junta corretamente.
+
+���� caracteres estranhos e ruido de encoding.
+
+CAPITULO 1 - INTRODUCAO
+Este texto serve para testar a pipeline de limpeza.
+
+Universidade Exemplo
+Pagina 2
+
+Mais texto repetido para testar deteccao de headers.
+Mais texto repetido para testar deteccao de headers.
+
+Fim do documento.
